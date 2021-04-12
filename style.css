@@ -1,0 +1,22 @@
+p{
+
+
+
+
+}
+
+body{
+
+	background-color: black;
+
+}
+#mainbutton{
+
+margin-left: 5%;
+margin-bottom:2%;
+background-color: yellow;
+color: lime;
+padding: 15px 20px;
+display: inline-block;
+font-size: 24px;
+}
